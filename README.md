@@ -61,27 +61,26 @@ The main notebook, `Fruad_Detection.ipynb`, is organized into the following sect
 
 ## Installation
 
-  1. **Clone the Repository:**
-
+1. **Clone the Repository:**
     ```bash
-      git clone https://github.com/yourusername/credit-card-fraud-detection.git
+    git clone https://github.com/yourusername/credit-card-fraud-detection.git
 
-  2. **Navigate to the Project Directory:**
-
+2. **Navigate to the Project Directory:**
     ```bash
-      cd credit-card-fraud-detection
+    cd credit-card-fraud-detection
 
-  3. **Install the Required Packagesy:**
-
+3. **Install the Required Packages:**
     ```bash
-      pip install -r requirements.txt
+    pip install -r requirements.txt
 
-  4. **Launch the Jupyter Notebook**:
-  
-    Open Fruad_Detection.ipynb in Jupyter Notebook to follow along with the experiments.
+5. **Launch the Jupyter Notebook**:
+
+Open Fruad_Detection.ipynb in Jupyter Notebook to follow along with the experiments.
 
 ##Usage
-  The notebook is designed to guide you through the entire fraud detection process. You can experiment with different parameters, models, or approaches to further enhance the detection capabilities. Each section is well-documented to facilitate easy understanding and modification.
+
+The notebook is designed to guide you through the entire fraud detection process. You can experiment with different parameters, models, or approaches to further enhance the detection capabilities. Each section is well-documented to facilitate easy understanding and modification.
 
 ##Contributing
-  Contributions to this project are highly welcome. If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+Contributions to this project are highly welcome. If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
