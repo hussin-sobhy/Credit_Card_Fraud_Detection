@@ -63,7 +63,7 @@ The main notebook, `Fruad_Detection.ipynb`, is organized into the following sect
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/credit-card-fraud-detection.git
+    git clone https://github.com/hussin-sobhy/credit-card-fraud-detection.git
 
 2. **Navigate to the Project Directory:**
     ```bash
