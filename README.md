@@ -1,5 +1,15 @@
 # Credit Card Fraud Detection
 
+<!-- Stack Badges -->
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/) 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![scikit‑learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
+[![imbalanced‑learn](https://img.shields.io/badge/imbalanced--learn-094D41?logo=none&logoColor=white)](https://imbalanced-learn.org/) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+
 This repository presents a comprehensive machine learning project aimed at detecting fraudulent credit card transactions. Leveraging the Kaggle Credit Card Fraud Detection dataset, the project explores various strategies to handle class imbalance and improve model performance through detailed experiments.
 
 ## Project Overview
